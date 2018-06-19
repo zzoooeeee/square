@@ -1,5 +1,6 @@
 #klasa kwadrat
 #kopia do celów testowych
+#i co tam słychać w AlterEgo?? :) 
 
 class Square:
 	def __init__(self, side):
