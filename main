@@ -1,5 +1,11 @@
+# Square Class
+
 class Square:
 	def __init__(self, side):
 		self.side = side
 	def area(self):
+	'''
+	method area()
+	returns area of Square instance
+	'''
 		return self.side * self.side
